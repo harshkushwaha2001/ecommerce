@@ -27,7 +27,7 @@ Welcome to CartPlus, a full-stack e-commerce web application built using the MER
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/yourusername/CartPlus.git`
+1. Clone the repository: `git clone https://github.com/yourusername/partplus.git`
 2. Navigate to the backend directory: `cd yourkart/backend`
 3. Install dependencies: `npm install`
 4. Create a `.env` file with your MongoDB connection URL, JWT secret, and Braintree credentials.
