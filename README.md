@@ -1,4 +1,4 @@
-# CartPlus : A MERN E-commerce App
+# CartPlus : A MERN E-commerce Application
 
 Welcome to CartPlus, a full-stack e-commerce web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. CartPlus allows users to browse and purchase products, manage their shopping cart, and make secure payments using Braintree payment system. The app utilizes various technologies and packages including Context API, JWT authentication, Toast notifications, and more.
 
